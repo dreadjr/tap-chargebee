@@ -1596,7 +1596,7 @@
                     "string"
                   ]
                 },
-                "gateway_account_id ": {
+                "gateway_account_id": {
                   "type": [
                     "null",
                     "string"
