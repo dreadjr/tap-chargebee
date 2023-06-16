@@ -111,8 +111,11 @@
             ]
         },
         "updated_at": {
-          "type": ["null", "string"],
-          "format": "date-time"
+            "type": [
+                "null",
+                "string"
+            ],
+            "format": "date-time"
         },
         "tiers": {
             "type": [
@@ -137,7 +140,7 @@
                             "integer"
                         ]
                     },
-                    "unit_amount ": {
+                    "unit_amount": {
                         "type": [
                             "null",
                             "integer"
@@ -152,27 +155,23 @@
                 }
             }
         },
-        "unit_amount_in_decimal" : {
+        "unit_amount_in_decimal": {
             "type": [
-                "null", 
+                "null",
                 "string"
             ]
-
         },
-        "quantity_in_decimal" : {
+        "quantity_in_decimal": {
             "type": [
-                "null", 
+                "null",
                 "string"
             ]
-
         },
-        "amount_in_decimal" : {
+        "amount_in_decimal": {
             "type": [
-                "null", 
+                "null",
                 "string"
             ]
-
         }
-
     }
 }

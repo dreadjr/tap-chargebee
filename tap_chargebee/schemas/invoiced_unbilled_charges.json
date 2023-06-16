@@ -111,8 +111,11 @@
             ]
         },
         "updated_at": {
-          "type": ["null", "string"],
-          "format": "date-time"
+            "type": [
+                "null",
+                "string"
+            ],
+            "format": "date-time"
         },
         "tiers": {
             "type": [
@@ -137,7 +140,7 @@
                             "integer"
                         ]
                     },
-                    "unit_amount ": {
+                    "unit_amount": {
                         "type": [
                             "null",
                             "integer"

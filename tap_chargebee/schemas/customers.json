@@ -666,7 +666,7 @@
               "integer"
             ]
           },
-          "refundable_credits ": {
+          "refundable_credits": {
             "type": [
               "null",
               "integer"

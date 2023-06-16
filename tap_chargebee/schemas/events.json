@@ -1645,7 +1645,7 @@
                       "integer"
                     ]
                   },
-                  "refundable_credits ": {
+                  "refundable_credits": {
                     "type": [
                       "null",
                       "integer"
@@ -5582,13 +5582,13 @@
                         "integer"
                       ]
                     },
-                    "quantity_used ": {
+                    "quantity_used": {
                       "type": [
                         "null",
                         "integer"
                       ]
                     },
-                    "unit_amount ": {
+                    "unit_amount": {
                       "type": [
                         "null",
                         "integer"
